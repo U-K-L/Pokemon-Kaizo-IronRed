@@ -2,7 +2,7 @@
 
 This is a Rom hack of the Ironmon challenge created by [Iateyourpie](https://www.twitch.tv/iateyourpie). An Ironmon is a set of rules self-imposed rules designed the make the pokemon games more challenging. This ROM hack enforces those rules into the game itself. The ROM hack takes a few liberties, for the original ruleset see [Original Ironmon rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1)
 
-## Standard IronMon Ruleset
+## Iron Red Kaizo Ruleset 
 
 | Rule                          | Details                                                                                                                                                                                                                                                                                                                                                                                       | Notes                                                                                                                                                                  |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
