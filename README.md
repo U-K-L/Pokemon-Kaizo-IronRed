@@ -4,6 +4,8 @@ This is a Rom hack of the Ironémon challenge created by [Iateyourpie](https://w
 
 [Custom Tracker for this patch is here](https://github.com/U-K-L/Ironmon-Tracker)
 
+[Discord Link if Any Help is Needed](https://discord.gg/HgUs2Hhpnq)
+
 ### ***This is intended to be played without self-imposed rules. The goal is to beat the game by any means necessary.***
 
 
